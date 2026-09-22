@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is a way to keep large codebases organized and have multiple people working on code at the same time, in a systematic way using branching strategy. It is also a good way to have a source of history, sofor those who work on the same codebase, if a break occurs one can narrow it  down to where the code could have broken.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to many fields. One field that comes to mind is marketing since companies can use a lot of the data they collect through various forms of testing, like seeing what product sells more, and using data to see what has more sales.  
