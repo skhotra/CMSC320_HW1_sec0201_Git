@@ -5,3 +5,7 @@ Answer: Git is a way to keep large codebases organized and have multiple people 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to many fields. One field that comes to mind is marketing since companies can use a lot of the data they collect through various forms of testing, like seeing what product sells more, and using data to see what has more sales.  
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is when you combine two branches but still have the history of those branches. Rebasing is when you take commits from one branch and then put them onto another branch for clean history. Rebasing does change commit history. 
